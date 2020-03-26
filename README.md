@@ -1,4 +1,5 @@
 # TDD
 Test driven development
-Fail,implement,Test, pass
+Fail,implement, pass
 Red, Green, refactoring
+Add some new comments
